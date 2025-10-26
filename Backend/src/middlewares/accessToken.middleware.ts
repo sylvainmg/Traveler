@@ -9,7 +9,9 @@ export function verifyAccessToken(
     const authHeader = req.headers.authorization;
     const token = authHeader && (authHeader.split(" ")[1] as string);
 
-    jwt.verify(token!, process.env.ACCESS_SECRET as string, (err, user) => {
+    if (!token) return res.sendStatus(401);
+
+    jwt.verify(token, process.env.ACCESS_SECRET as string, (err, user) => {
         if (err) return res.sendStatus(403);
         (req as any).user = user;
         next();

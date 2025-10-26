@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS TRAVELER;
+DROP DATABASE IF EXISTS MLR2;
 
-CREATE DATABASE IF NOT EXISTS TRAVELER;
-USE TRAVELER;
+CREATE DATABASE IF NOT EXISTS MLR2;
+USE MLR2;
 # -----------------------------------------------------------------------------
 #       TABLE : DISPONIBILITE
 # -----------------------------------------------------------------------------
@@ -64,7 +64,7 @@ CREATE TABLE IF NOT EXISTS PAYS
 
 CREATE TABLE IF NOT EXISTS REFRESH_TOKEN
  (
-   TOKEN VARCHAR(128) NOT NULL  ,
+   TOKEN VARCHAR(500) NOT NULL  ,
    ID_CLIENT BIGINT(4) NOT NULL  
    , PRIMARY KEY (TOKEN) 
  ) 
