@@ -1,0 +1,6456 @@
+[
+	{
+		"ID_HOTEL" : 1,
+		"CODE" : "AF",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Afghanistan Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 2,
+		"CODE" : "AF",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Afghanistan Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 3,
+		"CODE" : "AF",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Afghanistan Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 4,
+		"CODE" : "AF",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Afghanistan Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 5,
+		"CODE" : "AF",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Afghanistan Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 6,
+		"CODE" : "AF",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Afghanistan Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 7,
+		"CODE" : "ZA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Afrique du Sud Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 8,
+		"CODE" : "ZA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Afrique du Sud Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 9,
+		"CODE" : "ZA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Afrique du Sud Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 10,
+		"CODE" : "ZA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Afrique du Sud Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 11,
+		"CODE" : "ZA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Afrique du Sud Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 12,
+		"CODE" : "ZA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Afrique du Sud Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 13,
+		"CODE" : "AL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Albanie Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 14,
+		"CODE" : "AL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Albanie Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 15,
+		"CODE" : "AL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Albanie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 16,
+		"CODE" : "AL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Albanie Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 17,
+		"CODE" : "AL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Albanie Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 18,
+		"CODE" : "DZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Algérie Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 19,
+		"CODE" : "DZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Algérie Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 20,
+		"CODE" : "DZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Algérie Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 21,
+		"CODE" : "DZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Algérie Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 22,
+		"CODE" : "DZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Algérie Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 23,
+		"CODE" : "DZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Algérie Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 24,
+		"CODE" : "DE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Allemagne Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 25,
+		"CODE" : "DE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Allemagne Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 26,
+		"CODE" : "DE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Allemagne Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 27,
+		"CODE" : "DE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Allemagne Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 28,
+		"CODE" : "DE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Allemagne Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 29,
+		"CODE" : "DE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Allemagne Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 30,
+		"CODE" : "DE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Allemagne Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 31,
+		"CODE" : "DE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Allemagne Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 32,
+		"CODE" : "AO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Angola Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 33,
+		"CODE" : "AO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Angola Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 34,
+		"CODE" : "AO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Angola Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 35,
+		"CODE" : "AO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Angola Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 36,
+		"CODE" : "AO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Angola Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 37,
+		"CODE" : "AO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Angola Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 38,
+		"CODE" : "AO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Angola Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 39,
+		"CODE" : "AW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Aruba Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 40,
+		"CODE" : "AW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Aruba Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 41,
+		"CODE" : "AW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Aruba Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 42,
+		"CODE" : "AW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Aruba Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 43,
+		"CODE" : "AW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Aruba Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 44,
+		"CODE" : "AW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Aruba Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 45,
+		"CODE" : "AW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Aruba Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 46,
+		"CODE" : "AW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Aruba Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 47,
+		"CODE" : "SA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Arabie saoudite Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 48,
+		"CODE" : "SA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Arabie saoudite Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 49,
+		"CODE" : "SA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Arabie saoudite Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 50,
+		"CODE" : "SA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Arabie saoudite Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 51,
+		"CODE" : "SA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Arabie saoudite Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 52,
+		"CODE" : "SA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Arabie saoudite Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 53,
+		"CODE" : "SA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Arabie saoudite Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 54,
+		"CODE" : "SA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Arabie saoudite Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 55,
+		"CODE" : "AR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Argentine Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 56,
+		"CODE" : "AR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Argentine Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 57,
+		"CODE" : "AR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Argentine Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 58,
+		"CODE" : "AR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Argentine Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 59,
+		"CODE" : "AR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Argentine Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 60,
+		"CODE" : "AR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Argentine Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 61,
+		"CODE" : "AR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Argentine Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 62,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Arménie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 63,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Arménie Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 64,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Arménie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 65,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Arménie Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 66,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Arménie Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 67,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Arménie Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 68,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Arménie Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 69,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Arménie Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 70,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Arménie Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 71,
+		"CODE" : "AM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Arménie Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 72,
+		"CODE" : "AU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Australie Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 73,
+		"CODE" : "AU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Australie Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 74,
+		"CODE" : "AU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Australie Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 75,
+		"CODE" : "AU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Australie Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 76,
+		"CODE" : "AU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Australie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 77,
+		"CODE" : "AU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Australie Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 78,
+		"CODE" : "AU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Australie Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 79,
+		"CODE" : "AU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Australie Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 80,
+		"CODE" : "AT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Autriche Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 81,
+		"CODE" : "AT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Autriche Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 82,
+		"CODE" : "AT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Autriche Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 83,
+		"CODE" : "AT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Autriche Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 84,
+		"CODE" : "AT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Autriche Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 85,
+		"CODE" : "AT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Autriche Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 86,
+		"CODE" : "AT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Autriche Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 87,
+		"CODE" : "AT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Autriche Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 88,
+		"CODE" : "AZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Azerbaïdjan Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 89,
+		"CODE" : "AZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Azerbaïdjan Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 90,
+		"CODE" : "AZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Azerbaïdjan Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 91,
+		"CODE" : "AZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Azerbaïdjan Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 92,
+		"CODE" : "AZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Azerbaïdjan Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 93,
+		"CODE" : "BE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Belgique Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 94,
+		"CODE" : "BE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Belgique Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 95,
+		"CODE" : "BE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Belgique Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 96,
+		"CODE" : "BE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Belgique Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 97,
+		"CODE" : "BE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Belgique Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 98,
+		"CODE" : "BE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Belgique Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 99,
+		"CODE" : "BE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Belgique Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 100,
+		"CODE" : "BE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Belgique Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 101,
+		"CODE" : "NL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Pays-Bas Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 102,
+		"CODE" : "NL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Pays-Bas Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 103,
+		"CODE" : "NL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Pays-Bas Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 104,
+		"CODE" : "NL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Pays-Bas Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 105,
+		"CODE" : "NL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Pays-Bas Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 106,
+		"CODE" : "BS",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Bahamas Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 107,
+		"CODE" : "BS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Bahamas Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 108,
+		"CODE" : "BS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Bahamas Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 109,
+		"CODE" : "BS",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Bahamas Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 110,
+		"CODE" : "BH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Bahreïn Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 111,
+		"CODE" : "BH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Bahreïn Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 112,
+		"CODE" : "BH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Bahreïn Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 113,
+		"CODE" : "BH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Bahreïn Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 114,
+		"CODE" : "BH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Bahreïn Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 115,
+		"CODE" : "BH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Bahreïn Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 116,
+		"CODE" : "BH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Bahreïn Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 117,
+		"CODE" : "BH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Bahreïn Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 118,
+		"CODE" : "BH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Bahreïn Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 119,
+		"CODE" : "BD",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Bangladesh Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 120,
+		"CODE" : "BD",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Bangladesh Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 121,
+		"CODE" : "BD",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Bangladesh Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 122,
+		"CODE" : "BD",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Bangladesh Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 123,
+		"CODE" : "BD",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Bangladesh Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 124,
+		"CODE" : "BD",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Bangladesh Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 125,
+		"CODE" : "BD",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Bangladesh Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 126,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Salvador Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 127,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Salvador Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 128,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Salvador Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 129,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Salvador Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 130,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Salvador Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 131,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Salvador Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 132,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Salvador Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 133,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Salvador Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 134,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Salvador Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 135,
+		"CODE" : "SV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Salvador Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 136,
+		"CODE" : "BZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Belize Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 137,
+		"CODE" : "BZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Belize Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 138,
+		"CODE" : "BZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Belize Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 139,
+		"CODE" : "BZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Belize Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 140,
+		"CODE" : "BZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Belize Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 141,
+		"CODE" : "BJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Bénin Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 142,
+		"CODE" : "BJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Bénin Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 143,
+		"CODE" : "BJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Bénin Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 144,
+		"CODE" : "BJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Bénin Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 145,
+		"CODE" : "BJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Bénin Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 146,
+		"CODE" : "BJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Bénin Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 147,
+		"CODE" : "BJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Bénin Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 148,
+		"CODE" : "BJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Bénin Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 149,
+		"CODE" : "BY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Biélorussie Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 150,
+		"CODE" : "BY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Biélorussie Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 151,
+		"CODE" : "BY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Biélorussie Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 152,
+		"CODE" : "BY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Biélorussie Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 153,
+		"CODE" : "BY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Biélorussie Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 154,
+		"CODE" : "CO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Colombie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 155,
+		"CODE" : "CO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Colombie Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 156,
+		"CODE" : "CO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Colombie Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 157,
+		"CODE" : "CO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Colombie Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 158,
+		"CODE" : "CO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Colombie Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 159,
+		"CODE" : "CO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Colombie Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 160,
+		"CODE" : "CO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Colombie Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 161,
+		"CODE" : "CO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Colombie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 162,
+		"CODE" : "CO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Colombie Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 163,
+		"CODE" : "BO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Bolivie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 164,
+		"CODE" : "BO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Bolivie Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 165,
+		"CODE" : "BO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Bolivie Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 166,
+		"CODE" : "PT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Portugal Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 167,
+		"CODE" : "PT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Portugal Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 168,
+		"CODE" : "PT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Portugal Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 169,
+		"CODE" : "PT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Portugal Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 170,
+		"CODE" : "PT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Portugal Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 171,
+		"CODE" : "PT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Portugal Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 172,
+		"CODE" : "PT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Portugal Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 173,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Pérou Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 174,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Pérou Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 175,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Pérou Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 176,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Pérou Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 177,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Pérou Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 178,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Pérou Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 179,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Pérou Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 180,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Pérou Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 181,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Pérou Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 182,
+		"CODE" : "PE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Pérou Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 183,
+		"CODE" : "BA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Bosnie-Herzégovine Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 184,
+		"CODE" : "BA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Bosnie-Herzégovine Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 185,
+		"CODE" : "BA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Bosnie-Herzégovine Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 186,
+		"CODE" : "BA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Bosnie-Herzégovine Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 187,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Botswana Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 188,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Botswana Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 189,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Botswana Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 190,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Botswana Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 191,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Botswana Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 192,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Botswana Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 193,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Botswana Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 194,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Botswana Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 195,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Botswana Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 196,
+		"CODE" : "BW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Botswana Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 197,
+		"CODE" : "BR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Brésil Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 198,
+		"CODE" : "BR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Brésil Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 199,
+		"CODE" : "BR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Brésil Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 200,
+		"CODE" : "BR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Brésil Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 201,
+		"CODE" : "BR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Brésil Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 202,
+		"CODE" : "BG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Bulgarie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 203,
+		"CODE" : "BG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Bulgarie Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 204,
+		"CODE" : "BG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Bulgarie Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 205,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Burkina Faso Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 206,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Burkina Faso Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 207,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Burkina Faso Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 208,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Burkina Faso Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 209,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Burkina Faso Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 210,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Burkina Faso Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 211,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Burkina Faso Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 212,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Burkina Faso Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 213,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Burkina Faso Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 214,
+		"CODE" : "BF",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Burkina Faso Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 215,
+		"CODE" : "KH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Cambodge Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 216,
+		"CODE" : "KH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Cambodge Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 217,
+		"CODE" : "KH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Cambodge Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 218,
+		"CODE" : "KH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Cambodge Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 219,
+		"CODE" : "KH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Cambodge Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 220,
+		"CODE" : "KH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Cambodge Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 221,
+		"CODE" : "KH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Cambodge Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 222,
+		"CODE" : "KH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Cambodge Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 223,
+		"CODE" : "KH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Cambodge Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 224,
+		"CODE" : "CM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Cameroun Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 225,
+		"CODE" : "CM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Cameroun Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 226,
+		"CODE" : "CM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Cameroun Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 227,
+		"CODE" : "CM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Cameroun Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 228,
+		"CODE" : "CM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Cameroun Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 229,
+		"CODE" : "CA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Canada Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 230,
+		"CODE" : "CA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Canada Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 231,
+		"CODE" : "CA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Canada Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 232,
+		"CODE" : "CA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Canada Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 233,
+		"CODE" : "CA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Canada Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 234,
+		"CODE" : "CA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Canada Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 235,
+		"CODE" : "CA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Canada Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 236,
+		"CODE" : "CA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Canada Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 237,
+		"CODE" : "CV",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Cap-Vert Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 238,
+		"CODE" : "CV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Cap-Vert Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 239,
+		"CODE" : "CV",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Cap-Vert Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 240,
+		"CODE" : "CV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Cap-Vert Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 241,
+		"CODE" : "CV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Cap-Vert Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 242,
+		"CODE" : "CV",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Cap-Vert Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 243,
+		"CODE" : "CV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Cap-Vert Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 244,
+		"CODE" : "CV",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Cap-Vert Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 245,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Chili Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 246,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Chili Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 247,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Chili Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 248,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Chili Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 249,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Chili Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 250,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Chili Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 251,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Chili Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 252,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Chili Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 253,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Chili Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 254,
+		"CODE" : "CL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Chili Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 255,
+		"CODE" : "CN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Chine Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 256,
+		"CODE" : "CN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Chine Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 257,
+		"CODE" : "CN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Chine Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 258,
+		"CODE" : "CN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Chine Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 259,
+		"CODE" : "CN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Chine Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 260,
+		"CODE" : "CN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Chine Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 261,
+		"CODE" : "TW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Taïwan Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 262,
+		"CODE" : "TW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Taïwan Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 263,
+		"CODE" : "TW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Taïwan Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 264,
+		"CODE" : "HK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Hong Kong Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 265,
+		"CODE" : "HK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Hong Kong Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 266,
+		"CODE" : "HK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Hong Kong Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 267,
+		"CODE" : "HK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Hong Kong Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 268,
+		"CODE" : "HK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Hong Kong Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 269,
+		"CODE" : "HK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Hong Kong Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 270,
+		"CODE" : "CY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Chypre Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 271,
+		"CODE" : "CY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Chypre Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 272,
+		"CODE" : "CY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Chypre Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 273,
+		"CODE" : "CY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Chypre Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 274,
+		"CODE" : "CY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Chypre Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 275,
+		"CODE" : "CY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Chypre Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 276,
+		"CODE" : "CY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Chypre Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 277,
+		"CODE" : "CY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Chypre Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 278,
+		"CODE" : "CY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Chypre Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 279,
+		"CODE" : "KM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Comores Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 280,
+		"CODE" : "KM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Comores Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 281,
+		"CODE" : "KM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Comores Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 282,
+		"CODE" : "KM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Comores Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 283,
+		"CODE" : "KM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Comores Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 284,
+		"CODE" : "KM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Comores Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 285,
+		"CODE" : "KM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Comores Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 286,
+		"CODE" : "KP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Corée du Nord Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 287,
+		"CODE" : "KP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Corée du Nord Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 288,
+		"CODE" : "KP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Corée du Nord Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 289,
+		"CODE" : "KP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Corée du Nord Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 290,
+		"CODE" : "KP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Corée du Nord Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 291,
+		"CODE" : "KP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Corée du Nord Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 292,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Corée du Sud Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 293,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Corée du Sud Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 294,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Corée du Sud Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 295,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Corée du Sud Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 296,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Corée du Sud Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 297,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Corée du Sud Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 298,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Corée du Sud Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 299,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Corée du Sud Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 300,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Corée du Sud Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 301,
+		"CODE" : "KR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Corée du Sud Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 302,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Costa Rica Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 303,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Costa Rica Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 304,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Costa Rica Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 305,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Costa Rica Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 306,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Costa Rica Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 307,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Costa Rica Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 308,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Costa Rica Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 309,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Costa Rica Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 310,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Costa Rica Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 311,
+		"CODE" : "CR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Costa Rica Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 312,
+		"CODE" : "CI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Côte d''Ivoire Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 313,
+		"CODE" : "CI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Côte d''Ivoire Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 314,
+		"CODE" : "CI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Côte d''Ivoire Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 315,
+		"CODE" : "CI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Côte d''Ivoire Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 316,
+		"CODE" : "CI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Côte d''Ivoire Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 317,
+		"CODE" : "CI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Côte d''Ivoire Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 318,
+		"CODE" : "CI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Côte d''Ivoire Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 319,
+		"CODE" : "CI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Côte d''Ivoire Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 320,
+		"CODE" : "CI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Côte d''Ivoire Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 321,
+		"CODE" : "HR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Croatie Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 322,
+		"CODE" : "HR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Croatie Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 323,
+		"CODE" : "HR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Croatie Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 324,
+		"CODE" : "HR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Croatie Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 325,
+		"CODE" : "HR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Croatie Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 326,
+		"CODE" : "HR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Croatie Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 327,
+		"CODE" : "HR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Croatie Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 328,
+		"CODE" : "HR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Croatie Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 329,
+		"CODE" : "HR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Croatie Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 330,
+		"CODE" : "CU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Cuba Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 331,
+		"CODE" : "CU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Cuba Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 332,
+		"CODE" : "CU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Cuba Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 333,
+		"CODE" : "CU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Cuba Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 334,
+		"CODE" : "DK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Danemark Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 335,
+		"CODE" : "DK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Danemark Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 336,
+		"CODE" : "DK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Danemark Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 337,
+		"CODE" : "DK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Danemark Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 338,
+		"CODE" : "DK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Danemark Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 339,
+		"CODE" : "DK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Danemark Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 340,
+		"CODE" : "DK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Danemark Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 341,
+		"CODE" : "DK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Danemark Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 342,
+		"CODE" : "DJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Djibouti Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 343,
+		"CODE" : "DJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Djibouti Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 344,
+		"CODE" : "DJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Djibouti Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 345,
+		"CODE" : "DJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Djibouti Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 346,
+		"CODE" : "DJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Djibouti Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 347,
+		"CODE" : "DJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Djibouti Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 348,
+		"CODE" : "EG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Égypte Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 349,
+		"CODE" : "EG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Égypte Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 350,
+		"CODE" : "EG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Égypte Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 351,
+		"CODE" : "EG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Égypte Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 352,
+		"CODE" : "EG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Égypte Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 353,
+		"CODE" : "EG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Égypte Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 354,
+		"CODE" : "EG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Égypte Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 355,
+		"CODE" : "EG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Égypte Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 356,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Émirats arabes unis Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 357,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Émirats arabes unis Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 358,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Émirats arabes unis Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 359,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Émirats arabes unis Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 360,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Émirats arabes unis Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 361,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Émirats arabes unis Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 362,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Émirats arabes unis Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 363,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Émirats arabes unis Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 364,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Émirats arabes unis Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 365,
+		"CODE" : "AE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Émirats arabes unis Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 366,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Équateur Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 367,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Équateur Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 368,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Équateur Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 369,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Équateur Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 370,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Équateur Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 371,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Équateur Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 372,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Équateur Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 373,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Équateur Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 374,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Équateur Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 375,
+		"CODE" : "EC",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Équateur Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 376,
+		"CODE" : "ES",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Espagne Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 377,
+		"CODE" : "ES",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Espagne Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 378,
+		"CODE" : "ES",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Espagne Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 379,
+		"CODE" : "ES",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Espagne Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 380,
+		"CODE" : "ES",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Espagne Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 381,
+		"CODE" : "ES",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Espagne Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 382,
+		"CODE" : "ES",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Espagne Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 383,
+		"CODE" : "ES",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Espagne Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 384,
+		"CODE" : "ES",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Espagne Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 385,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Estonie Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 386,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Estonie Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 387,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Estonie Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 388,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Estonie Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 389,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Estonie Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 390,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Estonie Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 391,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Estonie Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 392,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Estonie Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 393,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Estonie Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 394,
+		"CODE" : "EE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Estonie Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 395,
+		"CODE" : "US",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza États-Unis Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 396,
+		"CODE" : "US",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza États-Unis Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 397,
+		"CODE" : "US",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand États-Unis Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 398,
+		"CODE" : "US",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal États-Unis Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 399,
+		"CODE" : "US",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand États-Unis Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 400,
+		"CODE" : "US",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean États-Unis Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 401,
+		"CODE" : "ER",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Érythrée Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 402,
+		"CODE" : "ER",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Érythrée Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 403,
+		"CODE" : "ER",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Érythrée Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 404,
+		"CODE" : "ER",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Érythrée Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 405,
+		"CODE" : "ER",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Érythrée Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 406,
+		"CODE" : "ER",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Érythrée Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 407,
+		"CODE" : "ER",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Érythrée Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 408,
+		"CODE" : "ER",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Érythrée Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 409,
+		"CODE" : "ET",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Éthiopie Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 410,
+		"CODE" : "ET",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Éthiopie Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 411,
+		"CODE" : "ET",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Éthiopie Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 412,
+		"CODE" : "ET",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Éthiopie Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 413,
+		"CODE" : "ET",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Éthiopie Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 414,
+		"CODE" : "ET",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Éthiopie Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 415,
+		"CODE" : "ET",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Éthiopie Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 416,
+		"CODE" : "ET",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Éthiopie Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 417,
+		"CODE" : "ET",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Éthiopie Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 418,
+		"CODE" : "FJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Fidji Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 419,
+		"CODE" : "FJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Fidji Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 420,
+		"CODE" : "FJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Fidji Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 421,
+		"CODE" : "FI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Finlande Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 422,
+		"CODE" : "FI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Finlande Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 423,
+		"CODE" : "FI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Finlande Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 424,
+		"CODE" : "FI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Finlande Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 425,
+		"CODE" : "FI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Finlande Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 426,
+		"CODE" : "FI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Finlande Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 427,
+		"CODE" : "FR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset France Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 428,
+		"CODE" : "FR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal France Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 429,
+		"CODE" : "FR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand France Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 430,
+		"CODE" : "FR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain France Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 431,
+		"CODE" : "FR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset France Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 432,
+		"CODE" : "FR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza France Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 433,
+		"CODE" : "GA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Gabon Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 434,
+		"CODE" : "GA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Gabon Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 435,
+		"CODE" : "GA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Gabon Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 436,
+		"CODE" : "GA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Gabon Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 437,
+		"CODE" : "GA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Gabon Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 438,
+		"CODE" : "GA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Gabon Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 439,
+		"CODE" : "GA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Gabon Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 440,
+		"CODE" : "GA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Gabon Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 441,
+		"CODE" : "GE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Géorgie Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 442,
+		"CODE" : "GE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Géorgie Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 443,
+		"CODE" : "GE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Géorgie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 444,
+		"CODE" : "GE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Géorgie Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 445,
+		"CODE" : "GE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Géorgie Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 446,
+		"CODE" : "GE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Géorgie Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 447,
+		"CODE" : "GE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Géorgie Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 448,
+		"CODE" : "GE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Géorgie Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 449,
+		"CODE" : "GH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Ghana Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 450,
+		"CODE" : "GH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Ghana Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 451,
+		"CODE" : "GH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Ghana Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 452,
+		"CODE" : "GH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Ghana Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 453,
+		"CODE" : "GH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Ghana Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 454,
+		"CODE" : "GH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Ghana Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 455,
+		"CODE" : "GH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Ghana Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 456,
+		"CODE" : "GH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Ghana Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 457,
+		"CODE" : "GH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Ghana Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 458,
+		"CODE" : "GR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Grèce Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 459,
+		"CODE" : "GR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Grèce Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 460,
+		"CODE" : "GR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Grèce Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 461,
+		"CODE" : "GR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Grèce Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 462,
+		"CODE" : "GR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Grèce Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 463,
+		"CODE" : "GR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Grèce Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 464,
+		"CODE" : "GL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Groenland Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 465,
+		"CODE" : "GL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Groenland Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 466,
+		"CODE" : "GL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Groenland Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 467,
+		"CODE" : "GL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Groenland Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 468,
+		"CODE" : "GL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Groenland Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 469,
+		"CODE" : "GL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Groenland Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 470,
+		"CODE" : "GL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Groenland Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 471,
+		"CODE" : "GT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Guatemala Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 472,
+		"CODE" : "GT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Guatemala Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 473,
+		"CODE" : "GT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Guatemala Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 474,
+		"CODE" : "GN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Guinée Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 475,
+		"CODE" : "GN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Guinée Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 476,
+		"CODE" : "GN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Guinée Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 477,
+		"CODE" : "GN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Guinée Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 478,
+		"CODE" : "GN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Guinée Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 479,
+		"CODE" : "GN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Guinée Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 480,
+		"CODE" : "GN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Guinée Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 481,
+		"CODE" : "HT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Haïti Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 482,
+		"CODE" : "HT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Haïti Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 483,
+		"CODE" : "HT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Haïti Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 484,
+		"CODE" : "HT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Haïti Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 485,
+		"CODE" : "HT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Haïti Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 486,
+		"CODE" : "HT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Haïti Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 487,
+		"CODE" : "HT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Haïti Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 488,
+		"CODE" : "HT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Haïti Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 489,
+		"CODE" : "HT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Haïti Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 490,
+		"CODE" : "HU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Hongrie Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 491,
+		"CODE" : "HU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Hongrie Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 492,
+		"CODE" : "HU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Hongrie Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 493,
+		"CODE" : "HU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Hongrie Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 494,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Îles Caïmans Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 495,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Îles Caïmans Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 496,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Îles Caïmans Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 497,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Îles Caïmans Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 498,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Îles Caïmans Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 499,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Îles Caïmans Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 500,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Îles Caïmans Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 501,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Îles Caïmans Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 502,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Îles Caïmans Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 503,
+		"CODE" : "KY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Îles Caïmans Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 504,
+		"CODE" : "MP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Îles Mariannes du Nord Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 505,
+		"CODE" : "MP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Îles Mariannes du Nord Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 506,
+		"CODE" : "MP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Îles Mariannes du Nord Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 507,
+		"CODE" : "MP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Îles Mariannes du Nord Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 508,
+		"CODE" : "MP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Îles Mariannes du Nord Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 509,
+		"CODE" : "MH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Îles Marshall Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 510,
+		"CODE" : "MH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Îles Marshall Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 511,
+		"CODE" : "MH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Îles Marshall Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 512,
+		"CODE" : "MH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Îles Marshall Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 513,
+		"CODE" : "MH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Îles Marshall Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 514,
+		"CODE" : "MH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Îles Marshall Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 515,
+		"CODE" : "MH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Îles Marshall Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 516,
+		"CODE" : "MH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Îles Marshall Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 517,
+		"CODE" : "IN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Inde Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 518,
+		"CODE" : "IN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Inde Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 519,
+		"CODE" : "IN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Inde Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 520,
+		"CODE" : "IN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Inde Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 521,
+		"CODE" : "IN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Inde Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 522,
+		"CODE" : "IN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Inde Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 523,
+		"CODE" : "IN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Inde Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 524,
+		"CODE" : "IN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Inde Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 525,
+		"CODE" : "ID",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Indonésie Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 526,
+		"CODE" : "ID",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Indonésie Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 527,
+		"CODE" : "ID",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Indonésie Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 528,
+		"CODE" : "ID",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Indonésie Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 529,
+		"CODE" : "ID",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Indonésie Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 530,
+		"CODE" : "IQ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Irak Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 531,
+		"CODE" : "IQ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Irak Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 532,
+		"CODE" : "IQ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Irak Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 533,
+		"CODE" : "IQ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Irak Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 534,
+		"CODE" : "IQ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Irak Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 535,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Iran Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 536,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Iran Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 537,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Iran Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 538,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Iran Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 539,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Iran Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 540,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Iran Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 541,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Iran Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 542,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Iran Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 543,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Iran Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 544,
+		"CODE" : "IR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Iran Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 545,
+		"CODE" : "IE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Irlande Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 546,
+		"CODE" : "IE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Irlande Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 547,
+		"CODE" : "IE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Irlande Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 548,
+		"CODE" : "IE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Irlande Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 549,
+		"CODE" : "IE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Irlande Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 550,
+		"CODE" : "IE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Irlande Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 551,
+		"CODE" : "IE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Irlande Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 552,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Islande Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 553,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Islande Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 554,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Islande Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 555,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Islande Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 556,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Islande Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 557,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Islande Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 558,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Islande Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 559,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Islande Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 560,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Islande Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 561,
+		"CODE" : "IS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Islande Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 562,
+		"CODE" : "IL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Israël Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 563,
+		"CODE" : "IL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Israël Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 564,
+		"CODE" : "IL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Israël Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 565,
+		"CODE" : "IL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Israël Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 566,
+		"CODE" : "IT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Italie Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 567,
+		"CODE" : "IT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Italie Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 568,
+		"CODE" : "IT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Italie Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 569,
+		"CODE" : "IT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Italie Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 570,
+		"CODE" : "IT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Italie Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 571,
+		"CODE" : "IT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Italie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 572,
+		"CODE" : "IT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Italie Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 573,
+		"CODE" : "IT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Italie Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 574,
+		"CODE" : "JM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Jamaïque Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 575,
+		"CODE" : "JM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Jamaïque Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 576,
+		"CODE" : "JM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Jamaïque Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 577,
+		"CODE" : "JM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Jamaïque Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 578,
+		"CODE" : "JM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Jamaïque Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 579,
+		"CODE" : "JM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Jamaïque Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 580,
+		"CODE" : "JM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Jamaïque Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 581,
+		"CODE" : "JM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Jamaïque Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 582,
+		"CODE" : "JM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Jamaïque Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 583,
+		"CODE" : "JP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Japon Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 584,
+		"CODE" : "JP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Japon Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 585,
+		"CODE" : "JP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Japon Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 586,
+		"CODE" : "JP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Japon Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 587,
+		"CODE" : "JP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Japon Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 588,
+		"CODE" : "JP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Japon Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 589,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Jordanie Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 590,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Jordanie Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 591,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Jordanie Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 592,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Jordanie Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 593,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Jordanie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 594,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Jordanie Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 595,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Jordanie Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 596,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Jordanie Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 597,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Jordanie Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 598,
+		"CODE" : "JO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Jordanie Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 599,
+		"CODE" : "KZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Kazakhstan Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 600,
+		"CODE" : "KZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Kazakhstan Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 601,
+		"CODE" : "KZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Kazakhstan Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 602,
+		"CODE" : "KZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Kazakhstan Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 603,
+		"CODE" : "KE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Kenya Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 604,
+		"CODE" : "KE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Kenya Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 605,
+		"CODE" : "KE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Kenya Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 606,
+		"CODE" : "KE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Kenya Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 607,
+		"CODE" : "KE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Kenya Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 608,
+		"CODE" : "KE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Kenya Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 609,
+		"CODE" : "KE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Kenya Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 610,
+		"CODE" : "XK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Kosovo Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 611,
+		"CODE" : "XK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Kosovo Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 612,
+		"CODE" : "XK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Kosovo Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 613,
+		"CODE" : "XK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Kosovo Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 614,
+		"CODE" : "XK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Kosovo Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 615,
+		"CODE" : "XK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Kosovo Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 616,
+		"CODE" : "XK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Kosovo Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 617,
+		"CODE" : "XK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Kosovo Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 618,
+		"CODE" : "XK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Kosovo Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 619,
+		"CODE" : "KW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Koweït Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 620,
+		"CODE" : "KW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Koweït Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 621,
+		"CODE" : "KW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Koweït Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 622,
+		"CODE" : "KW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Koweït Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 623,
+		"CODE" : "KI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Kiribati Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 624,
+		"CODE" : "KI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Kiribati Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 625,
+		"CODE" : "KI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Kiribati Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 626,
+		"CODE" : "LA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Laos Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 627,
+		"CODE" : "LA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Laos Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 628,
+		"CODE" : "LA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Laos Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 629,
+		"CODE" : "LA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Laos Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 630,
+		"CODE" : "LB",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Liban Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 631,
+		"CODE" : "LB",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Liban Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 632,
+		"CODE" : "LB",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Liban Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 633,
+		"CODE" : "LB",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Liban Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 634,
+		"CODE" : "LY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Libye Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 635,
+		"CODE" : "LY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Libye Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 636,
+		"CODE" : "LY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Libye Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 637,
+		"CODE" : "LU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Luxembourg Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 638,
+		"CODE" : "LU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Luxembourg Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 639,
+		"CODE" : "LU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Luxembourg Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 640,
+		"CODE" : "LU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Luxembourg Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 641,
+		"CODE" : "LU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Luxembourg Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 642,
+		"CODE" : "LU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Luxembourg Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 643,
+		"CODE" : "LU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Luxembourg Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 644,
+		"CODE" : "LU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Luxembourg Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 645,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Macao Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 646,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Macao Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 647,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Macao Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 648,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Macao Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 649,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Macao Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 650,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Macao Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 651,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Macao Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 652,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Macao Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 653,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Macao Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 654,
+		"CODE" : "MO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Macao Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 655,
+		"CODE" : "MK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Macédoine du Nord Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 656,
+		"CODE" : "MK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Macédoine du Nord Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 657,
+		"CODE" : "MK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Macédoine du Nord Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 658,
+		"CODE" : "MG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Madagascar Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 659,
+		"CODE" : "MG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Madagascar Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 660,
+		"CODE" : "MG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Madagascar Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 661,
+		"CODE" : "MG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Madagascar Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 662,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Malaisie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 663,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Malaisie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 664,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Malaisie Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 665,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Malaisie Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 666,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Malaisie Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 667,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Malaisie Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 668,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Malaisie Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 669,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Malaisie Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 670,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Malaisie Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 671,
+		"CODE" : "MY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Malaisie Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 672,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Mali Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 673,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Mali Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 674,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Mali Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 675,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Mali Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 676,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Mali Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 677,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Mali Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 678,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Mali Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 679,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Mali Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 680,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Mali Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 681,
+		"CODE" : "ML",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Mali Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 682,
+		"CODE" : "MT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Malte Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 683,
+		"CODE" : "MT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Malte Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 684,
+		"CODE" : "MT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Malte Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 685,
+		"CODE" : "MT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Malte Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 686,
+		"CODE" : "MT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Malte Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 687,
+		"CODE" : "MT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Malte Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 688,
+		"CODE" : "MT",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Malte Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 689,
+		"CODE" : "MT",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Malte Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 690,
+		"CODE" : "CH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Suisse Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 691,
+		"CODE" : "CH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Suisse Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 692,
+		"CODE" : "CH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Suisse Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 693,
+		"CODE" : "CH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Suisse Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 694,
+		"CODE" : "MA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Maroc Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 695,
+		"CODE" : "MA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Maroc Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 696,
+		"CODE" : "MA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Maroc Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 697,
+		"CODE" : "MA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Maroc Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 698,
+		"CODE" : "MA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Maroc Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 699,
+		"CODE" : "MA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Maroc Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 700,
+		"CODE" : "MU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Maurice Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 701,
+		"CODE" : "MU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Maurice Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 702,
+		"CODE" : "MU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Maurice Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 703,
+		"CODE" : "MU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Maurice Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 704,
+		"CODE" : "MU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Maurice Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 705,
+		"CODE" : "MR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Mauritanie Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 706,
+		"CODE" : "MR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Mauritanie Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 707,
+		"CODE" : "MR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Mauritanie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 708,
+		"CODE" : "MX",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Mexique Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 709,
+		"CODE" : "MX",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Mexique Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 710,
+		"CODE" : "MX",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Mexique Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 711,
+		"CODE" : "MX",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Mexique Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 712,
+		"CODE" : "MX",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Mexique Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 713,
+		"CODE" : "MX",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Mexique Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 714,
+		"CODE" : "MX",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Mexique Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 715,
+		"CODE" : "MX",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Mexique Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 716,
+		"CODE" : "MX",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Mexique Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 717,
+		"CODE" : "MD",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Moldavie Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 718,
+		"CODE" : "MD",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Moldavie Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 719,
+		"CODE" : "MD",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Moldavie Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 720,
+		"CODE" : "MD",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Moldavie Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 721,
+		"CODE" : "MC",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Monaco Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 722,
+		"CODE" : "MC",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Monaco Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 723,
+		"CODE" : "MC",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Monaco Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 724,
+		"CODE" : "MN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Mongolie Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 725,
+		"CODE" : "MN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Mongolie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 726,
+		"CODE" : "MN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Mongolie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 727,
+		"CODE" : "MN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Mongolie Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 728,
+		"CODE" : "MN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Mongolie Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 729,
+		"CODE" : "MN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Mongolie Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 730,
+		"CODE" : "MN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Mongolie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 731,
+		"CODE" : "MN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Mongolie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 732,
+		"CODE" : "MN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Mongolie Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 733,
+		"CODE" : "ME",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Monténégro Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 734,
+		"CODE" : "ME",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Monténégro Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 735,
+		"CODE" : "ME",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Monténégro Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 736,
+		"CODE" : "ME",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Monténégro Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 737,
+		"CODE" : "ME",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Monténégro Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 738,
+		"CODE" : "ME",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Monténégro Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 739,
+		"CODE" : "ME",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Monténégro Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 740,
+		"CODE" : "ME",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Monténégro Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 741,
+		"CODE" : "MZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Mozambique Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 742,
+		"CODE" : "MZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Mozambique Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 743,
+		"CODE" : "MZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Mozambique Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 744,
+		"CODE" : "MZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Mozambique Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 745,
+		"CODE" : "MZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Mozambique Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 746,
+		"CODE" : "MZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Mozambique Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 747,
+		"CODE" : "NP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Népal Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 748,
+		"CODE" : "NP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Népal Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 749,
+		"CODE" : "NP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Népal Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 750,
+		"CODE" : "NP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Népal Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 751,
+		"CODE" : "NP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Népal Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 752,
+		"CODE" : "NP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Népal Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 753,
+		"CODE" : "NP",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Népal Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 754,
+		"CODE" : "NP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Népal Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 755,
+		"CODE" : "NP",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Népal Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 756,
+		"CODE" : "NZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Nouvelle-Zélande Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 757,
+		"CODE" : "NZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Nouvelle-Zélande Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 758,
+		"CODE" : "NZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Nouvelle-Zélande Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 759,
+		"CODE" : "NZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Nouvelle-Zélande Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 760,
+		"CODE" : "NZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Nouvelle-Zélande Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 761,
+		"CODE" : "NZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Nouvelle-Zélande Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 762,
+		"CODE" : "NZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Nouvelle-Zélande Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 763,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Norvège Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 764,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Norvège Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 765,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Norvège Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 766,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Norvège Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 767,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Norvège Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 768,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Norvège Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 769,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Norvège Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 770,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Norvège Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 771,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Norvège Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 772,
+		"CODE" : "NO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Norvège Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 773,
+		"CODE" : "NE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Niger Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 774,
+		"CODE" : "NE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Niger Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 775,
+		"CODE" : "NE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Niger Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 776,
+		"CODE" : "NE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Niger Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 777,
+		"CODE" : "NE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Niger Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 778,
+		"CODE" : "NG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Nigeria Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 779,
+		"CODE" : "NG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Nigeria Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 780,
+		"CODE" : "NG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Nigeria Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 781,
+		"CODE" : "NG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Nigeria Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 782,
+		"CODE" : "NG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Nigeria Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 783,
+		"CODE" : "NG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Nigeria Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 784,
+		"CODE" : "NG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Nigeria Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 785,
+		"CODE" : "NG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Nigeria Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 786,
+		"CODE" : "NU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Niue Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 787,
+		"CODE" : "NU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Niue Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 788,
+		"CODE" : "NU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Niue Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 789,
+		"CODE" : "NU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Niue Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 790,
+		"CODE" : "OM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Oman Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 791,
+		"CODE" : "OM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Oman Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 792,
+		"CODE" : "OM",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Oman Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 793,
+		"CODE" : "OM",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Oman Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 794,
+		"CODE" : "UZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Ouzbékistan Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 795,
+		"CODE" : "UZ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Ouzbékistan Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 796,
+		"CODE" : "UZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Ouzbékistan Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 797,
+		"CODE" : "UZ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Ouzbékistan Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 798,
+		"CODE" : "PA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Panama Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 799,
+		"CODE" : "PA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Panama Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 800,
+		"CODE" : "PA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Panama Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 801,
+		"CODE" : "PA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Panama Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 802,
+		"CODE" : "PA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Panama Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 803,
+		"CODE" : "PA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Panama Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 804,
+		"CODE" : "PG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Papouasie-Nouvelle-Guinée Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 805,
+		"CODE" : "PG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Papouasie-Nouvelle-Guinée Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 806,
+		"CODE" : "PG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Papouasie-Nouvelle-Guinée Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 807,
+		"CODE" : "PG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Papouasie-Nouvelle-Guinée Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 808,
+		"CODE" : "PG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Papouasie-Nouvelle-Guinée Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 809,
+		"CODE" : "PG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Papouasie-Nouvelle-Guinée Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 810,
+		"CODE" : "PG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Papouasie-Nouvelle-Guinée Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 811,
+		"CODE" : "PG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Papouasie-Nouvelle-Guinée Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 812,
+		"CODE" : "PK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Pakistan Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 813,
+		"CODE" : "PK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Pakistan Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 814,
+		"CODE" : "PK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Pakistan Suites",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 815,
+		"CODE" : "PK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Pakistan Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 816,
+		"CODE" : "PK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Pakistan Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 817,
+		"CODE" : "PK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Pakistan Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 818,
+		"CODE" : "PL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Pologne Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 819,
+		"CODE" : "PL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Pologne Resort",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 820,
+		"CODE" : "PL",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Pologne Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 821,
+		"CODE" : "PL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Pologne Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 822,
+		"CODE" : "PL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Pologne Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 823,
+		"CODE" : "PL",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Pologne Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 824,
+		"CODE" : "PH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Philippines Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 825,
+		"CODE" : "PH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Philippines Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 826,
+		"CODE" : "PH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Philippines Retreat",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 827,
+		"CODE" : "PH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Philippines Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 828,
+		"CODE" : "PH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Philippines Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 829,
+		"CODE" : "PH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Philippines Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 830,
+		"CODE" : "PH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Philippines Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 831,
+		"CODE" : "PH",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Philippines Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 832,
+		"CODE" : "PH",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Philippines Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 833,
+		"CODE" : "QA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Qatar Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 834,
+		"CODE" : "QA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Qatar Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 835,
+		"CODE" : "QA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Qatar Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 836,
+		"CODE" : "QA",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Qatar Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 837,
+		"CODE" : "QA",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Qatar Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 838,
+		"CODE" : "RO",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Roumanie Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 839,
+		"CODE" : "RO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Roumanie Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 840,
+		"CODE" : "RO",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Roumanie Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 841,
+		"CODE" : "GB",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Royaume-Uni Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 842,
+		"CODE" : "GB",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Royaume-Uni Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 843,
+		"CODE" : "GB",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Royaume-Uni Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 844,
+		"CODE" : "GB",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Royaume-Uni Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 845,
+		"CODE" : "GB",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Royaume-Uni Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 846,
+		"CODE" : "GB",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Royaume-Uni Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 847,
+		"CODE" : "GB",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Royaume-Uni Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 848,
+		"CODE" : "GB",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Royaume-Uni Resort",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 849,
+		"CODE" : "RU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Imperial Russie Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 850,
+		"CODE" : "RU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Russie Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 851,
+		"CODE" : "RU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Russie Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 852,
+		"CODE" : "RU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Russie Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 853,
+		"CODE" : "RU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Russie Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 854,
+		"CODE" : "RU",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Russie Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 855,
+		"CODE" : "RU",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Russie Retreat",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 856,
+		"CODE" : "RW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Rwanda Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 857,
+		"CODE" : "RW",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Rwanda Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 858,
+		"CODE" : "RW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Rwanda Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 859,
+		"CODE" : "RW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Rwanda Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 860,
+		"CODE" : "RW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Rwanda Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 861,
+		"CODE" : "RW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Rwanda Suites",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 862,
+		"CODE" : "RW",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Rwanda Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 863,
+		"CODE" : "RS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Serbie Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 864,
+		"CODE" : "RS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Serbie Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 865,
+		"CODE" : "RS",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Serbie Suites",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 866,
+		"CODE" : "RS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Serbie Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 867,
+		"CODE" : "RS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Serbie Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 868,
+		"CODE" : "RS",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Serbie Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 869,
+		"CODE" : "RS",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Serbie Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 870,
+		"CODE" : "SN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Sénégal Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 871,
+		"CODE" : "SN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Sénégal Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 872,
+		"CODE" : "SN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Sénégal Retreat",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 873,
+		"CODE" : "SN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Sénégal Inn",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 874,
+		"CODE" : "SN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Sénégal Inn",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 875,
+		"CODE" : "SN",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Sénégal Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 876,
+		"CODE" : "SN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Sénégal Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 877,
+		"CODE" : "SN",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Sénégal Inn",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 878,
+		"CODE" : "SG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Singapour Palace",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 879,
+		"CODE" : "SG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Singapour Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 880,
+		"CODE" : "SG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Singapour Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 881,
+		"CODE" : "SG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Singapour Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 882,
+		"CODE" : "SG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Singapour Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 883,
+		"CODE" : "SG",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Singapour Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 884,
+		"CODE" : "SG",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Singapour Resort",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 885,
+		"CODE" : "SI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Slovénie Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 886,
+		"CODE" : "SI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Slovénie Lodge",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 887,
+		"CODE" : "SI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Slovénie Palace",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 888,
+		"CODE" : "SI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Slovénie Hotel",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 889,
+		"CODE" : "SI",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Slovénie Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 890,
+		"CODE" : "SI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Slovénie Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 891,
+		"CODE" : "SI",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Slovénie Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 892,
+		"CODE" : "SD",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Soudan Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 893,
+		"CODE" : "SD",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Continental Soudan Inn",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 894,
+		"CODE" : "SD",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Soudan Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 895,
+		"CODE" : "LK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Sri Lanka Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 896,
+		"CODE" : "LK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Grand Sri Lanka Retreat",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 897,
+		"CODE" : "LK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Ocean Sri Lanka Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 898,
+		"CODE" : "LK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Paradise Sri Lanka Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 899,
+		"CODE" : "LK",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Sri Lanka Hotel",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 900,
+		"CODE" : "LK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Sunset Sri Lanka Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 901,
+		"CODE" : "LK",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Sri Lanka Hotel",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 902,
+		"CODE" : "SE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Plaza Suède Suites",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 903,
+		"CODE" : "SE",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Central Suède Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 904,
+		"CODE" : "SE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Central Suède Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 905,
+		"CODE" : "SE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Suède Palace",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 906,
+		"CODE" : "SE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Grand Suède Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 907,
+		"CODE" : "SE",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Suède Hotel",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 908,
+		"CODE" : "SR",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Continental Suriname Hotel",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 909,
+		"CODE" : "SR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Suriname Palace",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 910,
+		"CODE" : "SR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Suriname Suites",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 911,
+		"CODE" : "SR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Paradise Suriname Resort",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 912,
+		"CODE" : "SR",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Suriname Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 913,
+		"CODE" : "SY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Royal Syrie Palace",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 914,
+		"CODE" : "SY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Syrie Inn",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 915,
+		"CODE" : "SY",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Royal Syrie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 916,
+		"CODE" : "SY",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Mountain Syrie Lodge",
+		"NB_ETOILE" : 2
+	},
+	{
+		"ID_HOTEL" : 917,
+		"CODE" : "TJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Imperial Tadjikistan Lodge",
+		"NB_ETOILE" : 3
+	},
+	{
+		"ID_HOTEL" : 918,
+		"CODE" : "TJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Mountain Tadjikistan Retreat",
+		"NB_ETOILE" : 4
+	},
+	{
+		"ID_HOTEL" : 919,
+		"CODE" : "TJ",
+		"CODE_AVOIR" : "NA",
+		"NOM" : "Ocean Tadjikistan Lodge",
+		"NB_ETOILE" : 1
+	},
+	{
+		"ID_HOTEL" : 920,
+		"CODE" : "TJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Plaza Tadjikistan Lodge",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 921,
+		"CODE" : "TJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Tadjikistan Resort",
+		"NB_ETOILE" : 5
+	},
+	{
+		"ID_HOTEL" : 922,
+		"CODE" : "TJ",
+		"CODE_AVOIR" : "AV",
+		"NOM" : "Sunset Tadjikistan Resort",
+		"NB_ETOILE" : 3
+	}
+]
