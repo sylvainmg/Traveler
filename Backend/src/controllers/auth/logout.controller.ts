@@ -11,6 +11,5 @@ export async function logout(req: Request, res: Response) {
         [id_client]
     );
 
-    res.clearCookie("refreshToken");
     res.status(200).json({ message: "User logged out." });
 }

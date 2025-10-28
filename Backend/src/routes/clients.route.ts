@@ -3,6 +3,6 @@ import { getClients } from "../controllers/clients/clients.controller.ts";
 
 const router = Router();
 
-router.get("/", getClients);
+router.post("/", getClients);
 
 export default router;

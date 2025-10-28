@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS MLR2;
+DROP DATABASE IF EXISTS TRAVELER;
 
-CREATE DATABASE IF NOT EXISTS MLR2;
-USE MLR2;
+CREATE DATABASE IF NOT EXISTS TRAVELER;
+USE TRAVELER;
 # -----------------------------------------------------------------------------
 #       TABLE : DISPONIBILITE
 # -----------------------------------------------------------------------------
@@ -11,6 +11,21 @@ CREATE TABLE IF NOT EXISTS DISPONIBILITE
    CODE CHAR(32) NOT NULL  ,
    DISPONIBILITE VARCHAR(128) NULL  
    , PRIMARY KEY (CODE) 
+ ) 
+ comment = "";
+
+# -----------------------------------------------------------------------------
+#       TABLE : ADMINISTRATEUR
+# -----------------------------------------------------------------------------
+
+CREATE TABLE IF NOT EXISTS ADMINISTRATEUR
+ (
+   ID_ADMIN BIGINT(4) NOT NULL AUTO_INCREMENT ,
+   NOM VARCHAR(128) NOT NULL  ,
+   PRENOM VARCHAR(128) NOT NULL  ,
+   EMAIL VARCHAR(128) NOT NULL  ,
+   PASSWORD CHAR(255) NOT NULL  
+   , PRIMARY KEY (ID_ADMIN) 
  ) 
  comment = "";
 
@@ -57,6 +72,26 @@ CREATE TABLE IF NOT EXISTS PAYS
    , PRIMARY KEY (CODE) 
  ) 
  comment = "";
+
+# -----------------------------------------------------------------------------
+#       TABLE : ADMIN_REFRESH_TOKEN
+# -----------------------------------------------------------------------------
+
+CREATE TABLE IF NOT EXISTS ADMIN_REFRESH_TOKEN
+ (
+   TOKEN VARCHAR(500) NOT NULL  ,
+   ID_ADMIN BIGINT(4) NOT NULL  
+   , PRIMARY KEY (TOKEN) 
+ ) 
+ comment = "";
+
+# -----------------------------------------------------------------------------
+#       INDEX DE LA TABLE ADMIN_REFRESH_TOKEN
+# -----------------------------------------------------------------------------
+
+
+CREATE  INDEX I_FK_ADMIN_REFRESH_TOKEN_ADMINISTRATEUR
+     ON ADMIN_REFRESH_TOKEN (ID_ADMIN ASC);
 
 # -----------------------------------------------------------------------------
 #       TABLE : REFRESH_TOKEN
@@ -335,6 +370,11 @@ ALTER TABLE VOL
 ALTER TABLE VOL 
   ADD FOREIGN KEY FK_VOL_COMPAGNIE_AERIENNE (ID_COMPAGNIE_AERIENNE)
       REFERENCES COMPAGNIE_AERIENNE (ID_COMPAGNIE_AERIENNE) ;
+
+
+ALTER TABLE ADMIN_REFRESH_TOKEN 
+  ADD FOREIGN KEY FK_ADMIN_REFRESH_TOKEN_ADMINISTRATEUR (ID_ADMIN)
+      REFERENCES ADMINISTRATEUR (ID_ADMIN) ;
 
 
 ALTER TABLE REFRESH_TOKEN 

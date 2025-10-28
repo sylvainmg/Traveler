@@ -1,23 +1,25 @@
 import express from "express";
 import cors from "cors";
-import cookieParser from "cookie-parser";
 import authRoutes from "./routes/auth.route.ts";
 import clientsRoutes from "./routes/clients.route.ts";
+import adminsRoutes from "./routes/admin.route.ts";
 import { verifyAccessToken } from "./middlewares/accessToken.middleware.ts";
+import rootRoute from "./routes/root.route.ts";
 
 const app = express();
 
 // Middlewares
-app.use(express.json());
 app.use(cors());
-app.use(cookieParser());
+app.use(express.json());
 
 // Auths
-app.use("/auth", authRoutes);
+app.use("/admin/auth", adminsRoutes); // admin
+app.use("/auth", authRoutes); // client
 
 // Protected routes
 app.use(verifyAccessToken); // middleware
 
+app.use(rootRoute);
 app.use("/clients", clientsRoutes);
 app.post("/profile", (req, res) => {
     res.json({

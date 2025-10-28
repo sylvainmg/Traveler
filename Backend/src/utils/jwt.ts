@@ -8,6 +8,6 @@ export function generateAccessToken(payload: jwt.JwtPayload) {
 
 export function generateRefreshToken(payload: jwt.JwtPayload) {
     return jwt.sign(payload, process.env.REFRESH_SECRET as string, {
-        expiresIn: "7d",
+        expiresIn: "30d",
     });
 }

@@ -6,11 +6,11 @@ import { generateAccessToken } from "../../utils/jwt.ts";
 
 export async function token(req: Request, res: Response) {
     const refreshToken = req.body.refreshToken;
-    if (!refreshToken) return res.sendStatus(403);
+    if (!refreshToken) return res.status(403).json({ message: "Forbidden" });
 
     // checkingn de l'existence du token dans la base de données
     const [rows] = await db.query<RowDataPacket[]>(
-        "select * from refresh_token where token = ?",
+        "select * from admin_refresh_token where token = ?",
         [refreshToken]
     );
 
